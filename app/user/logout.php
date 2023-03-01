@@ -1,7 +1,7 @@
 <?php
 session_start();
 //------------------------------::::::::::::::::::::------------------------------\\
-// Dibuat oleh FA Team di PT. Pacifica Raya Technology \\
+// Dibuat oleh Refi Fahreza \\
 //------------------------------::::::::::::::::::::------------------------------\\
 unset($_SESSION['id_user']);
 unset($_SESSION['fullname']);
